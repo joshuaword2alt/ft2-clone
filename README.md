@@ -39,3 +39,6 @@ PS: The source code is quite hackish and hardcoded. \
 My first priority is to make an _accurate_ 1:1 clone, and not to make flexible and easily modifiable code.
 
 Big parts of the code (except GUI) are directly ported from the original FT2 source code, with permission to use a BSD 3-Clause license.
+
+# You can try other trackers you want
+* [Other-Trackers](https://warmplace.ru/forum/viewtopic.php?f=16&t=2853&p=21755#p21755)
